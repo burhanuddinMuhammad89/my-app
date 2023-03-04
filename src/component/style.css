@@ -1,0 +1,17 @@
+.card {
+    width: calc(100% / 3) - 30px;
+    margin: 15px;
+    border: 1px solid #dedede;
+    padding: 2rem;
+    background-color: #f5f6f8;
+    display: inline-block;
+  }
+  
+  .my-component {
+    border: 1px solid blue;
+    margin-bottom: 2rem;
+  }
+  
+  .nesting-component {
+    border: 1px solid red;
+  }  
